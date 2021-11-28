@@ -13,7 +13,7 @@ const info = {
  where: "Turkey",
  age: 15,
  languages: ["lua", "c++", "some c#.", "Java"],
- experience: "less than 3 year"
+ experience: "less than 2 year"
 }
 
 console.log(info);
