@@ -21,8 +21,8 @@ console.log(info);
 
 ### Connect with me:
 
-[![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/null)
-[![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/null)
+[![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/)
+[![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/)
 
 add me at discord: eraykr#0001
 <br />
