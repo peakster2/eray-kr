@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## 💻 Project Zaman-
+## 💻 Project FL
 
 ![profile views](https://komarev.com/ghpvc/?username=eray-kr&style=flat-square)
 
@@ -11,9 +11,9 @@ const info = {
  name: "Eray",
  pronouns: ["he", "him"],
  where: "Turkey",
- age: 15,
- languages: ["lua", "c++", "some c#.", "Java"],
- experience: "less than 2 year"
+ age: 16,
+ languages: ["Java", "c++", "some c#."],
+ experience: "less than 3 year"
 }
 
 console.log(info);
@@ -24,7 +24,7 @@ console.log(info);
 [![Youtube](https://img.shields.io/discord/803994619993129000?label=youtube)](https://www.youtube.com/channel/)
 [![Discord](https://img.shields.io/discord/803994619993129000?label=discord)](https://discord.gg/)
 
-add me at discord: eraykr#0001
+add me at discord: eraykr#1018
 <br />
 
 
